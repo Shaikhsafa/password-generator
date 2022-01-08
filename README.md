@@ -1,7 +1,7 @@
 # password-generator
 Generates password based on your preference.
 to run open index.html file in dist folder 
-or open through this link - https://saad696.github.io/password-generator/dist
+or open through this link - https://shaikhsafa.github.io/password-generator/dist/
 
 <h3 align="left">Project Output Steps.</h3><hr>
 
